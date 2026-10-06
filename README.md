@@ -11,7 +11,7 @@ statistics, and other IPL insights.
 
 -   **Project:** IPL Data Analysis
 -   **Program:** Data Analytics Master Program -- Batch 2
--   **Student:** Sairam Nallapati
+-   **Student:** Yasaswini Adimulam
 -   **Project Type:** Major Project-I
 
 ## Dataset
